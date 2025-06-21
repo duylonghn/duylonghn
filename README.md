@@ -1,5 +1,5 @@
 ### Hi, I'm Duy Long <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-I'm learning programming.
+I am studying networking. Here are my hobby projects.
 ### :zap: GitHub Stats
 <table>
 <tr>
@@ -7,7 +7,6 @@ I'm learning programming.
     <img src="https://github-readme-stats.vercel.app/api?username=duylonghn&show_icons=true&hide=contribs,issues&hide_border=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duylonghn&layout=compact&show_icons=true&hide_border=true" />
   </td>
-  <td width="52%"><img alt="gif" align="right" src="https://s.net.vn/9kyL"/></td>
 </tr>
 <table>
 
