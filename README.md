@@ -4,8 +4,8 @@ I'm learning programming.
 <table>
 <tr>
   <td width="48%">
-    <img src="https://github-readme-stats.vercel.app/api?username=DuyLong28&show_icons=true&hide=contribs,issues&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuyLong28&layout=compact&show_icons=true&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=duylonghn&show_icons=true&hide=contribs,issues&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duylonghn&layout=compact&show_icons=true&hide_border=true" />
   </td>
   <td width="52%"><img alt="gif" align="right" src="https://s.net.vn/9kyL"/></td>
 </tr>
@@ -20,5 +20,5 @@ I'm learning programming.
 
   ---
 ### 📫 Contact me via:
-- EMAIL: duylongst2283@gmail.com
+- EMAIL: duylong2283.work@gmail.com
 - FACEBOOK: https://www.facebook.com/duylong.2283/
